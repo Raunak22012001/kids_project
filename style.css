@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: rgb(119, 7, 7);
+}
+
+h1{
+   font-size: 5rem;
+   color: rgb(202, 215, 53);
+   font-family:"Roboto" ;
+   text-shadow: 3px 0 black;
+}
+
+footer{
+    color: rgb(244, 241, 244);
+    font-family: sans-serif;
+}
+
+.set{
+    margin: 10% auto;
+    
+}
+
+.alphabet{
+    outline: none;
+    border: 10px solid cornflowerblue ;
+    font-size: 4rem;
+    font-family: "Roboto", cursive;
+    font-weight: 900;
+    background-color: rgb(225, 223, 86);
+    color: rgb(60, 60, 225);
+    text-shadow: 3px 0 black;
+    border-radius: 15px;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+
+.pressed{
+ box-shadow: 0 3px 4px 0 white;
+ opacity: 0.8;
+}
